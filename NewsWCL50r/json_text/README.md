@@ -1,0 +1,4 @@
+## Gathering the original news articles
+NewsWCL50 only contains the annotated parts of the news articles. Due to copyright law, we cannot offer the original articles. However, you can quickly gather the original articles, if you need to work not only with our annotations but also the remainder of the text. In the file urls.tsv, each row represents a single article, identified uniquely by its event id, publisher id, and URL. For each article, visit that URL and copy the article's text, including the headline, into a text document.
+
+If you have more questions about the raw files, please contact Anastasia Zhukova: zhukova@gipplab.org
