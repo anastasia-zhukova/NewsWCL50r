@@ -4,10 +4,14 @@
 The repository provides the supplement information for the lexical-rich cross document coreference resolution annotation scheme described in 
 ```
 @inproceedings{Zhukova2026b,
-  title={Diverse Word Choices, Same Reference: Annotating Lexically-Rich Cross-Document Coreference,
-  author={Zhukova, Anastasia and Hamborg, Felix and Donnay, Karsten and Meuschke, Norman and Gipp, Bela},
-  journal={under review in ACDSA 2026},
-  year={2026},
+  author    = {Zhukova, Anastasia and Hamborg, Felix and Donnay, Karsten and Meuschke, Norman and Gipp, Bela},
+  title     = {Diverse Word Choices, Same Reference: Annotating Lexically-Rich Cross-Document Coreference},
+  booktitle = {Proceedings of the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)},
+  year      = {2026},
+  month     = feb,
+  address   = {Boracay, Philippines},
+  publisher = {IEEE},
+  url       = {https://arxiv.org/pdf/2602.17424},
 }
 ```
 
